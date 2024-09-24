@@ -1,0 +1,11 @@
+.about-container {
+    padding: 20px;
+}
+
+.about-container h1 {
+    margin-bottom: 20px;
+}
+
+.about-container p {
+    line-height: 1.6;
+}
